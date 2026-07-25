@@ -200,3 +200,12 @@ npm run test:e2e    # Playwright: auth redirect + admin sign-in smoke
   build time, and requires the `MONGODB_URI`. Both need normal network access.
 - Profile name changes appear after the next sign-in, since the display name is
   carried in the JWT session.
+
+## Assignment Deliverables
+
+### Task A
+Lead Management Platform (Source Code)
+
+### Task B
+The engineering assessment report is included as **TASK_B_Assessment.pdf** in the project root.
+
