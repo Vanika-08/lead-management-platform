@@ -1,0 +1,10 @@
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+# Official adapter: enables SSR, API routes, middleware and image optimization.
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
